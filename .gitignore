@@ -1,0 +1,7 @@
+build
+.qmake*
+Makefile
+pkg-config_wrapper.sh
+player
+.vscode*
+
